@@ -34,3 +34,17 @@ b#bhm1 {
     color: white;
     font-weight: 900;
 }
+div#smalldisplays {
+    margin: 0%;
+    padding: 0%;
+}
+a.button {
+    width: 100%;
+    margin: 0%;
+    height: 6.669em;
+    padding-top: 14%;
+    background-color: #C5C6C7;
+}
+a.button:hover {
+    background-color: #FF4A00;
+}
