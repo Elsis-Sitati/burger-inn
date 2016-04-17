@@ -2,6 +2,7 @@ div#container {
     height: 100%;
     margin: 0%;
     padding: 0%;
+    background-color: #FEFEFE;
 }
 div#homepage {
     text-align: center;
@@ -70,4 +71,10 @@ h6:hover {
         position: relative;
         margin-top: -9%;
     }
+}
+div#about {
+    margin: 0%;
+    padding: 0%;
+    background-color: #FEFEFE;
+    margin-top: 5%;
 }
