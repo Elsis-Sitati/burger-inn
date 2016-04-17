@@ -37,6 +37,7 @@ b#bhm1 {
 div#smalldisplays {
     margin: 0%;
     padding: 0%;
+    text-align: center;
 }
 a.button {
     width: 100%;
@@ -47,4 +48,26 @@ a.button {
 }
 a.button:hover {
     background-color: #FF4A00;
+}
+h6 {
+    margin-top: -6em;
+    color: wheat;
+}
+h6:hover {
+    color: #FF4A00;
+}
+.breakfast:hover {
+    opacity: 0.5;
+}
+.lunch:hover {
+    opacity: 0.5;
+}
+.dinner:hover {
+    opacity: 0.5;
+}
+@media screen and (max-width: 39.9375em) {
+    h6 {
+        position: relative;
+        margin-top: -9%;
+    }
 }
