@@ -4,17 +4,33 @@ div#container {
     padding: 0%;
 }
 div#homepage {
+    text-align: center;
     height: 100%;
     background-image: url(../assets/backgrounds/landing.jpg);
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
 }
-img#logo {
+
+/* img#logo {
     max-width: 100%;
     height: auto;
     margin-left: 31em;
     margin-top: 5em;
     display: inline-block;
-    vertical-align: m
+    vertical-align: middle;
+} */
+
+img#logo {
+    margin-top: 5%;
+}
+p#phm {
+    text-transform: capitalize;
+    color: wheat;
+    font-size: 2em;
+    margin-top: 5%;
+}
+b#bhm1 {
+    color: white;
+    font-weight: 900;
 }
