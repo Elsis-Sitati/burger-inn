@@ -10,3 +10,11 @@ div#homepage {
     background-repeat: no-repeat;
     background-size: cover;
 }
+img#logo {
+    max-width: 100%;
+    height: auto;
+    margin-left: 31em;
+    margin-top: 5em;
+    display: inline-block;
+    vertical-align: m
+}
