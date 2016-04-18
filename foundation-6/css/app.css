@@ -204,3 +204,9 @@
                     color: #FF4C03;
                     font-size: 20px;
                 }
+                div#subscribe {
+                    background-image: url(../assets/backgrounds/subscribe.jpg);
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    height: 19em;
+                }
