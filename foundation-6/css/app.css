@@ -195,3 +195,12 @@
                     font-size: 2em;
                     margin-left: 3%;
                 }
+                div#menu {
+                    margin-top: 5%;
+                    text-align: center;
+                    padding-left: 10%;
+                }
+                b#amenu {
+                    color: #FF4C03;
+                    font-size: 20px;
+                }
