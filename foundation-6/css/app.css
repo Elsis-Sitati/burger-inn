@@ -80,6 +80,10 @@ div#about {
 }
 div#foodis {
     padding-left: 5%;
+    /*  border-bottom: 15px solid white;
+    -moz-box-shadow: 0 0 3px #ccc;
+    -webkit-box-shadow: 0 0 3px #ccc;
+    box-shadow: 0 0 3px #ccc; */
 }
 div#foodus {
     font-family: 'Slabo 27px', serif;
@@ -116,9 +120,16 @@ div#drinksi {
 div#water {
     margin: 0%;
     padding: 0%;
-    padding-left: 9%;
+    padding-left: 11%;
 }
 div#juice {
     margin: 0%;
-    padding: 0%;
+    padding-left: 0%;
+}
+@media screen and (max-width: 39.9375em) {
+    div#water {
+        margin: 0%;
+        padding: 0%;
+        padding-left: 3%;
+    }
 }
