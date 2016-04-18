@@ -235,3 +235,33 @@
                     margin-top: 5%;
                     font-size: 23px;
                 }
+                div#last {
+                    background-color: #FF4C03;
+                    text-align: center;
+                }
+                .small-3.small-centered.columns {
+                    margin-top: 4%;
+                    color: wheat;
+                }
+                b#menule {
+                    padding-left: 10%;
+                    font-size: 24px;
+                }
+                p#p2nd {
+                    margin-top: 5%
+                }
+                i.fa.fa-facebook-official {
+                    font-size: 29px;
+                }
+                i.fa.fa-pinterest-square {
+                    font-size: 29px;
+                    margin-left: 8%;
+                }
+                i.fa.fa-twitter-square {
+                    font-size: 29px;
+                    margin-left: 8%;
+                }
+                p#last {
+                    margin-top: 9%;
+                    font-size: 10px;
+                }
