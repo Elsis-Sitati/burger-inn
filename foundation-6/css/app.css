@@ -78,3 +78,17 @@ div#about {
     background-color: #FEFEFE;
     margin-top: 5%;
 }
+div#foodis {
+    padding-left: 5%;
+}
+div#foodus {
+    font-family: 'Slabo 27px', serif;
+    padding-right: 7%;
+}
+p#ff1 {
+    color: #FF4C03;
+    border-style: solid;
+    width: 34%;
+    text-align: center;
+    margin-top: 4em;
+}
