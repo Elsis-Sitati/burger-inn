@@ -169,3 +169,29 @@
                     border-right: 1px solid grey;
                     padding-right: 5%;
                 }
+                b#hc {
+                    color: #FF4C03;
+                    font-size: 23px;
+                }
+                p#plp {
+                    margin-top: 2%;
+                }
+                i.fa.fa-angle-left {
+                    color: #FF4C03;
+                    font-size: 2em;
+                    padding-right: 2%;
+                }
+                img#pic2 {
+                    margin-left: 3%;
+                }
+                img#pic3 {
+                    margin-left: 3%;
+                }
+                img#pic1 {
+                    margin-left: 3%;
+                }
+                i.fa.fa-angle-right {
+                    color: #FF4C03;
+                    font-size: 2em;
+                    margin-left: 3%;
+                }
