@@ -209,6 +209,8 @@
                     background-repeat: no-repeat;
                     background-size: cover;
                     height: 19em;
+                    text-align: center;
+                    margin-top: 5%;
                 }
                 input[type="text"] {
                     width: 31%;
@@ -217,10 +219,19 @@
                     width: 38%;
                     padding: 0%;
                     height: 2em;
-                    padding-top: 1%;
+                    padding-top: 2%;
                     background-color: #FF4C03;
+                    margin-top: 9%;
+                    height: 3em;
+                    margin-left: -6em;
                 }
                 input[type="text"] {
                     width: 42%;
-                    margin-left: 20%;
+                    margin-left: 37%;
+                    margin-top: 7%;
+                }
+                #sbc {
+                    color: wheat;
+                    margin-top: 5%;
+                    font-size: 23px;
                 }
