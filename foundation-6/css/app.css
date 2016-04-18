@@ -133,3 +133,7 @@ div#juice {
         padding-left: 3%;
     }
 }
+div#food {
+    background-image: url(../assets/backgrounds/foodsBg.jpg);
+    height: 70%;
+}
