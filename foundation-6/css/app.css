@@ -210,3 +210,17 @@
                     background-size: cover;
                     height: 19em;
                 }
+                input[type="text"] {
+                    width: 31%;
+                }
+                a#sb1 {
+                    width: 38%;
+                    padding: 0%;
+                    height: 2em;
+                    padding-top: 1%;
+                    background-color: #FF4C03;
+                }
+                input[type="text"] {
+                    width: 42%;
+                    margin-left: 20%;
+                }
